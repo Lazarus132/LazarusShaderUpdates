@@ -1,6 +1,6 @@
 {
-    "version": "1.0",
+    "version": "3.0",
     "date": "2025-11-01",
     "changelog": "Änderungen:\r\n- Neue Features\r\nAutomatische Nutzerbenachrichtigung über neuen Updatemanager\r\n- Bugfixes\r",
-    "packageUrl": "https://raw.githubusercontent.com/Lazarus132/LazarusShaderUpdates/main/LazarusUpdate_v1.0.unitypackage"
+    "packageUrl": "https://github.com/Lazarus132/LazarusShaderUpdates/releases/download/v3.0/LazarusUpdate_v3.0.unitypackage"
 }
